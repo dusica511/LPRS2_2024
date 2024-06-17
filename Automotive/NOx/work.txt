@@ -45,6 +45,18 @@
 					- UniNOx12V
 					- A2C5xxxxx
 					- 5WK96622A
+				- Rcv from ID: 18F00F52
+					- A lot of 0xFF aka 255 in bytes
+						- No like that in datasheet
+				- https://forum.arduino.cc/t/measurement-of-nox-can-bus/352960/3
+					- Send cmd to ID: 18FEDF00
+						-O Just 1 bit.
+						- No more 0xFF in bytes
+						-O Get from multiple IDs
+						-T Decode messages using datasheet
+							-T Which bytes is in code, which in pkg, which in datasheet
+							-T Why diff ID is short?
+								-H Just last byte of ID?
 		- kw: NOx sensor CAN protocol
 			- https://github.com/Bylund/NOx-Shield-Example/blob/main/NOx_Shield_Example.ino
 				- EGS-NX2
@@ -52,4 +64,9 @@
 				- Xtruck Y006
 					- $250
 			- https://www.continental-aftermarket.com/us-en/products/special-vehicle-solutions/sensors-and-switches/uninox
-			
+		- kw: CAN ID 0x18FEDF00
+			- https://blog.csdn.net/huan447882949/article/details/79944298
+			- 382615655-CAN-Botschaften-Step3.pdf
+				- B 8, b = 3 -> Exceeded the dew point
+					- T = 250ms
+					-O Very similar to msg sent at 18FEDF00 in https://forum.arduino.cc/t/measurement-of-nox-can-bus/352960/3
