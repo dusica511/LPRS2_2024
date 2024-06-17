@@ -45,3 +45,11 @@
 					- UniNOx12V
 					- A2C5xxxxx
 					- 5WK96622A
+		- kw: NOx sensor CAN protocol
+			- https://github.com/Bylund/NOx-Shield-Example/blob/main/NOx_Shield_Example.ino
+				- EGS-NX2
+			- https://www.youtube.com/watch?v=bZyLPMJuuqk
+				- Xtruck Y006
+					- $250
+			- https://www.continental-aftermarket.com/us-en/products/special-vehicle-solutions/sensors-and-switches/uninox
+			
