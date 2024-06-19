@@ -179,6 +179,295 @@
         )
       )
     )
+    (symbol "FINDER-55.32.8.230.0040_1" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+      (property "Reference" "K" (id 0) (at 16.51 3.81 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Value" "FINDER-55.32.8.230.0040_1" (id 1) (at 16.51 1.27 0)
+        (effects (font (size 1.27 1.27)) (justify left))
+      )
+      (property "Footprint" "Relay_THT:Relay_DPDT_Finder_40.52" (id 2) (at 34.29 -0.762 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "Datasheet" "https://www.tme.eu/Document/59d1ac3347a64a8ec461ed3ffae7e5ea/s55en.pdf" (id 3) (at -5.08 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (property "ki_fp_filters" "Relay*DPDT*Finder*40.52*" (id 4) (at 0 0 0)
+        (effects (font (size 1.27 1.27)) hide)
+      )
+      (symbol "FINDER-55.32.8.230.0040_1_0_1"
+        (rectangle (start -15.24 5.08) (end 15.24 -5.08)
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type background))
+        )
+        (rectangle (start -13.335 1.905) (end -6.985 -1.905)
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -12.7 -1.905)
+            (xy -7.62 1.905)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -10.16 -5.08)
+            (xy -10.16 -1.905)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -10.16 5.08)
+            (xy -10.16 1.905)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -6.985 0)
+            (xy -6.35 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -5.715 0)
+            (xy -5.08 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -4.445 0)
+            (xy -3.81 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -3.175 0)
+            (xy -2.54 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 2.54)
+            (xy -2.54 5.08)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -1.905 0)
+            (xy -1.27 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -0.635 0)
+            (xy 0 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -2.54)
+            (xy -1.905 3.81)
+          )
+          (stroke (width 0.508) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0 -2.54)
+            (xy 0 -5.08)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 0.635 0)
+            (xy 1.27 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 1.905 0)
+            (xy 2.54 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 2.54 2.54)
+            (xy 2.54 5.08)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 3.175 0)
+            (xy 3.81 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 4.445 0)
+            (xy 5.08 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 5.715 0)
+            (xy 6.35 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 6.985 0)
+            (xy 7.62 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 7.62 2.54)
+            (xy 7.62 5.08)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 8.255 0)
+            (xy 8.89 0)
+          )
+          (stroke (width 0.254) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 10.16 -2.54)
+            (xy 8.255 3.81)
+          )
+          (stroke (width 0.508) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 10.16 -2.54)
+            (xy 10.16 -5.08)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 12.7 2.54)
+            (xy 12.7 5.08)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy -2.54 2.54)
+            (xy -1.905 3.175)
+            (xy -2.54 3.81)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type outline))
+        )
+        (polyline
+          (pts
+            (xy 2.54 2.54)
+            (xy 1.905 3.175)
+            (xy 2.54 3.81)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 7.62 2.54)
+            (xy 8.255 3.175)
+            (xy 7.62 3.81)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type outline))
+        )
+        (polyline
+          (pts
+            (xy 12.7 2.54)
+            (xy 12.065 3.175)
+            (xy 12.7 3.81)
+          )
+          (stroke (width 0) (type default) (color 0 0 0 0))
+          (fill (type none))
+        )
+      )
+      (symbol "FINDER-55.32.8.230.0040_1_1_1"
+        (pin passive line (at 0 -7.62 90) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "11" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -2.54 7.62 270) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "12" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 2.54 7.62 270) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "14" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 10.16 -7.62 90) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "41" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 7.62 7.62 270) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "42" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at 12.7 7.62 270) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "44" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -10.16 7.62 270) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "A1" (effects (font (size 1.27 1.27))))
+        )
+        (pin passive line (at -10.16 -7.62 90) (length 2.54)
+          (name "~" (effects (font (size 1.27 1.27))))
+          (number "A2" (effects (font (size 1.27 1.27))))
+        )
+      )
+    )
     (symbol "Local_Relays:FINDER-55.32.8.230.0040" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
       (property "Reference" "K" (id 0) (at 16.51 3.81 0)
         (effects (font (size 1.27 1.27)) (justify left))
@@ -448,15 +737,15 @@
         )
         (pin passive line (at 10.16 -7.62 90) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
-          (number "21" (effects (font (size 1.27 1.27))))
+          (number "41" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at 7.62 7.62 270) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
-          (number "22" (effects (font (size 1.27 1.27))))
+          (number "42" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at 12.7 7.62 270) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
-          (number "24" (effects (font (size 1.27 1.27))))
+          (number "44" (effects (font (size 1.27 1.27))))
         )
         (pin passive line (at -10.16 7.62 270) (length 2.54)
           (name "~" (effects (font (size 1.27 1.27))))
@@ -985,12 +1274,12 @@
     (pin "3" (uuid ef31709c-f631-484a-88cf-429ea55296bf))
   )
 
-  (symbol (lib_id "Local_Relays:FINDER-55.32.8.230.0040") (at 78.74 109.22 90) (unit 1)
+  (symbol (lib_name "FINDER-55.32.8.230.0040_1") (lib_id "Local_Relays:FINDER-55.32.8.230.0040") (at 78.74 109.22 90) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 00000000-0000-0000-0000-0000629df1ba)
     (property "Reference" "K1" (id 0) (at 78.74 89.7382 90))
     (property "Value" "FINDER-55.32.8.230.0040" (id 1) (at 78.74 92.0496 90))
-    (property "Footprint" "" (id 2) (at 79.502 74.93 0)
+    (property "Footprint" "Relay_THT:Relay_DPDT_Finder_40.52" (id 2) (at 79.502 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.tme.eu/Document/59d1ac3347a64a8ec461ed3ffae7e5ea/s55en.pdf" (id 3) (at 78.74 114.3 0)
@@ -999,9 +1288,9 @@
     (pin "11" (uuid e33d333a-d846-4e70-a2dc-120bf06f6039))
     (pin "12" (uuid 6041ee34-1adb-4b5f-8510-c4ede45c6f33))
     (pin "14" (uuid c6271a8c-e54c-4137-bd5f-3dc04206beb3))
-    (pin "21" (uuid 5b8cb18e-49cc-4aad-9da6-e5895a531d24))
-    (pin "22" (uuid 775f2df8-34dc-4902-807d-8be022c59886))
-    (pin "24" (uuid fbceaf5c-a02c-4894-813f-a846deb59bfe))
+    (pin "41" (uuid 89defa94-dbc0-4aed-bdf7-2d2af972115f))
+    (pin "42" (uuid 8dbcc9ba-d592-4273-9230-c528998642f1))
+    (pin "44" (uuid 38b5de3d-5eb1-4df7-b052-b53578b710aa))
     (pin "A1" (uuid e808a4c0-a046-4bfc-9eb4-fca289aa56a8))
     (pin "A2" (uuid 18076a25-da24-4034-8396-e675bab3cfbf))
   )
@@ -1063,7 +1352,7 @@
     (uuid fef0d49c-ee72-4fa0-a570-6e3839cd24fc)
     (property "Reference" "K2" (id 0) (at 142.24 89.7382 90))
     (property "Value" "FINDER-55.32.8.230.0040" (id 1) (at 142.24 92.0496 90))
-    (property "Footprint" "" (id 2) (at 143.002 74.93 0)
+    (property "Footprint" "Relay_THT:Relay_DPDT_Finder_40.52" (id 2) (at 143.002 74.93 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.tme.eu/Document/59d1ac3347a64a8ec461ed3ffae7e5ea/s55en.pdf" (id 3) (at 142.24 114.3 0)
@@ -1072,9 +1361,9 @@
     (pin "11" (uuid 9710bd7d-6257-4b15-91c5-aa92611e74f1))
     (pin "12" (uuid 10b1c829-c38a-42f8-9648-7e89c530d4f4))
     (pin "14" (uuid 2a836795-6fb3-4dc5-b460-a46d5325c2d7))
-    (pin "21" (uuid ca712dde-32c9-4fff-9743-16e65b18d427))
-    (pin "22" (uuid 8dd085a5-bf14-4fd9-a9e6-0540a0d47d27))
-    (pin "24" (uuid 1cd6fd0b-cca1-4c24-afd1-fc67a9283e6c))
+    (pin "41" (uuid a7f22ea6-3e0a-4ac9-a568-d0e339a5d255))
+    (pin "42" (uuid 1e8d9fa6-24bc-4e39-b2d9-12bd48542680))
+    (pin "44" (uuid 684ef134-af93-45f7-aab5-f78e0161ef30))
     (pin "A1" (uuid 3f67d462-ee43-49d2-a032-5131461c3444))
     (pin "A2" (uuid a55590de-c992-4d73-8420-2f4b734d98fc))
   )
@@ -1181,28 +1470,28 @@
     (path "/40f40d12-4b44-4ad8-b0da-c8d8ab7a5483"
       (reference "#PWR025") (unit 1) (value "Earth_Protective") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294b42b"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294b42b"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294b42b"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294b42b"
-      (reference "#PWR?") (unit 1) (value "~") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294b604"
-      (reference "#PWR?") (unit 1) (value "~") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294b604"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294b42b"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294b604"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294b8a4"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294b604"
+      (reference "#PWR?") (unit 1) (value "~") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294b604"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294b8a4"
+      (reference "#PWR?") (unit 1) (value "~") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294b8a4"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294b8a4"
@@ -1220,61 +1509,58 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629e4f2f"
       (reference "#PWR?") (unit 1) (value "GND") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e52e0"
-      (reference "#PWR?") (unit 1) (value "~") (footprint "")
-    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e52e0"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e52e0"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e53a4"
-      (reference "#PWR?") (unit 1) (value "~") (footprint "")
-    )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e53a4"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e52e0"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e53a4"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0266b"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e53a4"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0266b"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e53a4"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0266b"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03bf5"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0266b"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03bf5"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0266b"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03bf5"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a042a8"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03bf5"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a042a8"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03bf5"
+      (reference "#PWR?") (unit 1) (value "~") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a042a8"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a042a8"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0461e"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a042a8"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0461e"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0461e"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0461e"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049a5"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a0461e"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049a5"
@@ -1283,10 +1569,13 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049a5"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049f3"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049a5"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049f3"
+      (reference "#PWR?") (unit 1) (value "~") (footprint "")
+    )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049f3"
       (reference "#PWR?") (unit 1) (value "~") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a049f3"
@@ -1307,13 +1596,13 @@
     (path "/7e974cae-0cca-453a-ab68-43db80964abd/84bf0a9d-7145-4491-874f-efd35a28748d"
       (reference "C4") (unit 1) (value "100n") (footprint "For_Rasterboard:C_Disc_D3.0mm_W1.6mm_P2.50mm")
     )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e5cc2"
+      (reference "C?") (unit 1) (value "100n") (footprint "For_Rasterboard:C_Disc_D3.0mm_W1.6mm_Pinf")
+    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e5cc2"
       (reference "C?") (unit 1) (value "100n") (footprint "For_Rasterboard:C_Disc_D3.0mm_W1.6mm_Pinf")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e5cc2"
-      (reference "C?") (unit 1) (value "100n") (footprint "For_Rasterboard:C_Disc_D3.0mm_W1.6mm_Pinf")
-    )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-0000629e5cc2"
       (reference "C?") (unit 1) (value "100n") (footprint "For_Rasterboard:C_Disc_D3.0mm_W1.6mm_Pinf")
     )
     (path "/7e974cae-0cca-453a-ab68-43db80964abd/28806c6b-e3c7-4aa7-9642-a0e5f6df8846"
@@ -1328,13 +1617,13 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03e88"
       (reference "D?") (unit 1) (value "1N4148") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03fa5"
+      (reference "D?") (unit 1) (value "1N4148") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
+    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03fa5"
       (reference "D?") (unit 1) (value "1N4148") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03fa5"
-      (reference "D?") (unit 1) (value "1N4148") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
-    )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03fa5"
       (reference "D?") (unit 1) (value "1N4148") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a04074"
@@ -1389,10 +1678,10 @@
       (reference "J4") (unit 1) (value "1ph AC schuko socket") (footprint "")
     )
     (path "/00000000-0000-0000-0000-0000629df1ba"
-      (reference "K1") (unit 1) (value "FINDER-55.32.8.230.0040") (footprint "")
+      (reference "K1") (unit 1) (value "FINDER-55.32.8.230.0040") (footprint "Relay_THT:Relay_DPDT_Finder_40.52")
     )
     (path "/fef0d49c-ee72-4fa0-a570-6e3839cd24fc"
-      (reference "K2") (unit 1) (value "FINDER-55.32.8.230.0040") (footprint "")
+      (reference "K2") (unit 1) (value "FINDER-55.32.8.230.0040") (footprint "Relay_THT:Relay_DPDT_Finder_40.52")
     )
     (path "/347e5cab-6348-453e-89b1-3a59f3580c30"
       (reference "LA?") (unit 1) (value "FINDER-99.02.0.230.98") (footprint "")
@@ -1406,23 +1695,20 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-0000629dfa9e"
       (reference "R?") (unit 1) (value "1k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-0000629dfa9e"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-0000629dfa9e"
       (reference "R?") (unit 1) (value "1k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-0000629dfa9e"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-0000629dfa9e"
       (reference "R?") (unit 1) (value "1k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-0000629dfae4"
       (reference "R?") (unit 1) (value "1M5") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-0000629dfae4"
-      (reference "R?") (unit 1) (value "1M5") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
-    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-0000629dfae4"
       (reference "R?") (unit 1) (value "1M5") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-0000629e17fb"
-      (reference "R?") (unit 1) (value "50") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-0000629dfae4"
+      (reference "R?") (unit 1) (value "1M5") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-0000629e17fb"
       (reference "R?") (unit 1) (value "50") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
@@ -1430,19 +1716,22 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-0000629e17fb"
       (reference "R?") (unit 1) (value "50") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-0000629e17fb"
+      (reference "R?") (unit 1) (value "50") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
+    )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02e63"
+      (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02e63"
       (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02e63"
       (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02e63"
-      (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
-    )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02f14"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02f14"
       (reference "R?") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02f14"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02f14"
       (reference "R?") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a02f14"
@@ -1451,28 +1740,28 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03111"
       (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03111"
-      (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
-    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03111"
       (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03583"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03111"
+      (reference "R?") (unit 1) (value "220k") (footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P2.54mm_Vertical")
+    )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03583"
       (reference "R?") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03583"
       (reference "R?") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03583"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a03583"
       (reference "R?") (unit 1) (value "100k") (footprint "For_Rasterboard:R_Axial_DIN0207_L6.3mm_D2.5mm_Pinf_Horizontal")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294b1c6"
       (reference "T?") (unit 1) (value "ASM-010") (footprint "Local_Modules:ASM-010")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294b1c6"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294b1c6"
       (reference "T?") (unit 1) (value "ASM-010") (footprint "Local_Modules:ASM-010")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294b1c6"
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294b1c6"
       (reference "T?") (unit 1) (value "ASM-010") (footprint "Local_Modules:ASM-010")
     )
     (path "/7e974cae-0cca-453a-ab68-43db80964abd/57f35ee8-42fd-45f6-828d-6090c7634069"
@@ -1487,11 +1776,14 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01177"
       (reference "U?") (unit 1) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01177"
+      (reference "U?") (unit 1) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01177"
       (reference "U?") (unit 1) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01177"
-      (reference "U?") (unit 1) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a011ed"
+      (reference "U?") (unit 2) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a011ed"
       (reference "U?") (unit 2) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
@@ -1499,16 +1791,13 @@
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a011ed"
       (reference "U?") (unit 2) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a011ed"
-      (reference "U?") (unit 2) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
-    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01280"
-      (reference "U?") (unit 3) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
-    )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc175/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01280"
       (reference "U?") (unit 3) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
     (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-00006294b4bb/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01280"
+      (reference "U?") (unit 3) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
+    )
+    (path "/00000000-0000-0000-0000-00006294b008/00000000-0000-0000-0000-0000629fc153/00000000-0000-0000-0000-00006294afed/00000000-0000-0000-0000-000062a01280"
       (reference "U?") (unit 3) (value "TL072") (footprint "Package_DIP:DIP-8_W7.62mm")
     )
   )
