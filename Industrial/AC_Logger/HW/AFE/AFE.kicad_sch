@@ -446,7 +446,7 @@
     (uuid f41b164d-0b09-4127-b2f0-80bdd2c10bcc)
   )
 
-  (hierarchical_label "E1_OR_S3_OUT" (shape output) (at 146.05 90.17 0)
+  (hierarchical_label "S3_OUT" (shape output) (at 146.05 90.17 0)
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 4fedaa8d-98c3-45b5-9dec-ccf8f3384b97)
   )
@@ -462,7 +462,7 @@
     (effects (font (size 1.27 1.27)) (justify left))
     (uuid 80bf5ebd-4f46-4752-b5f9-0e4c40a5548c)
   )
-  (hierarchical_label "E1_OR_S3_IN" (shape input) (at 57.15 90.17 180)
+  (hierarchical_label "S3_IN" (shape input) (at 57.15 90.17 180)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 87c456bb-43e8-493d-b379-259cb47a0167)
   )
