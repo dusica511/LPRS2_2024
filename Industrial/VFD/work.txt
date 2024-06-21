@@ -58,3 +58,5 @@
 			- 2B CRC-16-MODBUS
 				- Low b first
 			- 01 03 0000 0001 
+
+software for VFD: https://www.bwsensing.com/download.html 
